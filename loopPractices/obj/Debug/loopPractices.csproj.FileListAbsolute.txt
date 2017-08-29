@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\loopPractices\loopPractices\bin\Debug\loopPractices.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\loopPractices\loopPractices\bin\Debug\loopPractices.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\loopPractices\loopPractices\bin\Debug\loopPractices.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\loopPractices\loopPractices\obj\Debug\loopPractices.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\loopPractices\loopPractices\obj\Debug\loopPractices.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\loopPractices\loopPractices\obj\Debug\loopPractices.pdb
